@@ -1,1 +1,1 @@
-# test_pub
+<img src="folder/node_small.png" />
